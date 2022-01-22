@@ -1,4 +1,4 @@
-// Hide Reel Cookie Banner Admin Bar İcon
+// Hide Reel Cookie Banner Admin Bar İcon paste funcions.php
 function remove_from_admin_bar($wp_admin_bar) {
     /*
      * Placing items in here will only remove them from admin bar
